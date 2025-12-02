@@ -39,13 +39,13 @@ Tested personally with two Windows 11 PCs for reliable wireless serial communica
 ### **Voltage Divider for HC-05 RXD**
 ```
 Pico GP0 ── 1.8kΩ ──┬───> HC-05 RXD
-                   │
+                    │
                   3.3kΩ
-                   │
-                  GND
+                    │
+                   GND
 ```
 
-This ensures HC-05 RX pin receives ~2.1V (safe).
+This ensures HC-05 RX pin receives ~2.1V (safe). [View on GitHub](./Pico with HC-05_bb.png)
 
 ---
 
