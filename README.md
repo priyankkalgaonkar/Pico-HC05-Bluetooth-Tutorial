@@ -37,15 +37,10 @@ Tested personally with two Windows 11 PCs for reliable wireless serial communica
 | **KEY (optional)** | **3.3V** | Required only for AT mode |
 
 ### **Voltage Divider for HC-05 RXD**
-```
-Pico GP0 ── 1.8kΩ ──┬───> HC-05 RXD
-                    │
-                  3.3kΩ
-                    │
-                   GND
-```
 
-This ensures HC-05 RX pin receives ~2.1V (safe). [View on GitHub](./Pico with HC-05_bb.png)
+![Alt See the wiring diagram: ](https://github.com/priyankkalgaonkar/Pico-HC05-Bluetooth-Tutorial/blob/main/Pico%20with%20HC-05_bb.png)
+
+This ensures HC-05 RX pin receives ~2.1V (safe).
 
 ---
 
