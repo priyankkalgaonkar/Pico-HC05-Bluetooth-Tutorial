@@ -2,7 +2,7 @@
  * HC-05 Bluetooth Module Factory Reset Configuration
  * 
  * Filename: HC05_Factory_Reset.ino
- * Author: Prof. Dr. Priyank Kalgaonkar.
+ * Author: Prof. Dr. Priyank Kalgaonkar
  * Date: 12/02/2025
  * Version: 1.0
  * 
