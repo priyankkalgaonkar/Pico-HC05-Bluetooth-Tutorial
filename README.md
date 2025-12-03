@@ -34,7 +34,7 @@ Tested personally with two Windows 11 PCs for reliable wireless serial communica
 | **GND** | **GND** | Shared ground |
 | **TXD** | **GP1 (UART0 RX)** | Direct connection |
 | **RXD** | **GP0 (UART0 TX)** | Through voltage divider |
-| **KEY (optional)** | **3.3V** | Required only for AT mode |
+| **EN/KEY (optional)** | **3.3V** | Required only for AT mode |
 
 ### **Voltage Divider for HC-05 RXD**
 
